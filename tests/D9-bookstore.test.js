@@ -1,4 +1,4 @@
-const {chromium} = require('playwright');
+    const {chromium} = require('playwright');
 
 describe ('UI tests for bookstore using playwright', () =>{
 
